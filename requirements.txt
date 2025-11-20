@@ -1,0 +1,6 @@
+mlflow==2.2.2
+dagshub
+dvc
+pandas
+numpy
+scikit-learn
